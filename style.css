@@ -1,4 +1,36 @@
 body {
   background-color: salmon;
+  
+nav {
+  list-style-type: none;
+  background-color: #A7A284;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #433E0E;
+  font-size: 25px;
+  font-family: "Papyrus";
+  text-decoration: none;
+  text-shadow: 1px 1px #494331;
+  padding: 15px 30px;
+  
+}
+
+li a:hover {
+  background-color: antiquewhite;
+  color: black; 
+}
+  
 }
