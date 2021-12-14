@@ -37,10 +37,12 @@ h1 {
   color: black;
   text-align: center;
   font-family: "Times New Roman";
+  font-size: 25px;
 }
 
 p {
 color: black;
 text-align: left;
 font-family: "Times New Roman";
+font-size: 15px;
 }
